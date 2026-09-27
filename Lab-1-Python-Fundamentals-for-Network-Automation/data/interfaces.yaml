@@ -1,0 +1,4 @@
+- name: GigabitEthernet0/1
+  status: up
+- name: GigabitEthernet0/2
+  status: down

@@ -1,0 +1,14 @@
+INFO:root:[LAB1-START] LAB1_START
+INFO:root:PARSE_JSON_SUCCESS
+INFO:root:PARSE_YAML_SUCCESS
+INFO:root:PARSE_XML_SUCCESS
+INFO:root:PARSE_CSV_SUCCESS
+INFO:root:[DEVICE_SUMMARY]: router01 (router) - 192.168.1.1
+INFO:root:[DEVICE_SUMMARY]: switch01 (switch) - 192.168.1.2
+INFO:root:INTERFACE_MSG: Interface GigabitEthernet0/1 is up
+INFO:root:INTERFACE_MSG: Interface GigabitEthernet0/2 is down
+INFO:root:DEVICE_MSG: Device router01 is a Jacksonville Router
+INFO:root:DEVICE_MSG: Device switch01 is a Miami Switch
+INFO:root:VLAN_MSG: VLAN 10 is the Management
+INFO:root:VLAN_MSG: VLAN 20 is the Users
+INFO:root:[LAB1-END] LAB1_END
